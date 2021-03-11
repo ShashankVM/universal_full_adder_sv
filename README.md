@@ -1,2 +1,1 @@
-# universal_full_adder
-n-bit full adder
+n-bit full adder and subtractor in SystemVerilog
